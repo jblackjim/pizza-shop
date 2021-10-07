@@ -1,0 +1,10 @@
+Hello
+
+
+To run this program
+1) run the pizzaproducts script 
+2) run the back end 
+3) run the front end with visual code studio and type the command ng serve
+4) type on your browsers search bar http://localhost:4200 to go to the program page
+
+Thank you!!
